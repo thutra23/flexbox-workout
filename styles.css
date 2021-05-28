@@ -226,7 +226,7 @@ h1 {
   }
 
   main article {
-    flex-basis: 50%;
+    width: 50%;
   }
 }
 
@@ -298,7 +298,7 @@ h1 {
   }
 
   main article {
-    width: 33.3vw;
+    width: 33.3%;
   }
 }
 
@@ -382,7 +382,7 @@ h1 {
   }
 
   main article {
-    width: 25vw;
+    width: 25%;
     border: 1px solid black;
     box-sizing: border-box;
     position: relative;
